@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "stdint.h": "c",
+        "main.h": "c",
+        "macnuam.h": "c",
+        "tim.h": "c",
+        "gpio.h": "c",
+        "cmsis_os.h": "c",
+        "memorymap.h": "c",
+        "i2c.h": "c",
+        "string.h": "c",
+        "usart.h": "c",
+        "task.h": "c",
+        "freertos.h": "c"
+    }
+}

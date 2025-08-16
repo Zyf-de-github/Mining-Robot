@@ -1,0 +1,12 @@
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+summer_camp\list.o: D:\my_study_need\stm\keil\ARM\ARMCC\Bin\..\include\stdlib.h
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+summer_camp\list.o: D:\my_study_need\stm\keil\ARM\ARMCC\Bin\..\include\stddef.h
+summer_camp\list.o: D:\my_study_need\stm\keil\ARM\ARMCC\Bin\..\include\stdint.h
+summer_camp\list.o: ../Core/Inc/FreeRTOSConfig.h
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+summer_camp\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
